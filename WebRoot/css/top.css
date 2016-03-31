@@ -1,0 +1,90 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+}
+
+header {
+	background-color: #1A1A1A;
+	height: 60px;
+	margin: 0 auto;
+}
+
+header nav {
+	text-align: center;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	display: inline-block;
+	margin: 0 55px;
+	line-height: 60px;
+}
+
+header nav ul li a {
+	display: block;
+	width: 125px;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	font-family: microsoft yahei;
+}
+
+header nav ul li a:hover {
+	background-color: #A4A4A4;
+}
+
+header nav ul li a:link,header nav ul li a:visited {
+	color: white;
+}
+
+footer,.footer-container {
+	
+	background-color: #3c3c3c;
+	height: 60px;
+	clear: both;
+	margin: 0 auto;
+	font-family: microsoft yahei;
+}
+
+.footer-container a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+footer .footer-container .footer-logo {url ("")
+	
+}
+
+footer .footer-container .footer-container-left {
+	float: left;
+}
+
+footer .footer-container .footer-container-right {
+	float: right;
+	height: 50px;
+	line-height: 60px;
+	margin-right: 50px;
+}
+
+footer .footer-container .footer-container-left ul {
+	list-style: none;
+	margin: 5px 50px;
+	color: #f5f5f5
+}
+
+footer .footer-container .footer-container-right ul {
+	list-style: none;
+}
+
+footer .footer-container .footer-container-right ul li {
+	padding-left: 20px;
+	float: left;
+}
+
+footer .footer-container .footer-container-right ul li a:hover {
+	color: orange;
+}

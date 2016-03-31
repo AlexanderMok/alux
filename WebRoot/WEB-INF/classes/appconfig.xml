@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE app-config>
+<app-config>
+	<package>com.alux.action</package>
+	<suffix>Action</suffix>
+	<parameter>a</parameter>
+	<alials>proxool.alus</alials>
+	<pagesize>5</pagesize>
+	<pagefull>full</pagefull>
+	<ddlauto>create</ddlauto>
+<!-- 
+	<driver>com.mysql.jdbc.Driver</driver>
+	<url>jdbc:mysql://localhost/test</url>
+	<user>root</user>
+	<password>123456</password> 
+-->
+</app-config>
